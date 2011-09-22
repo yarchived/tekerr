@@ -1,4 +1,4 @@
-## Interface: 30000
+## Interface: 40000
 
 ## Title: tekErr
 ## Notes: Lua error manager
@@ -9,6 +9,8 @@
 ## X-Category: Development Tools
 
 LibStub.lua
+CallbackHandler-1.0.lua
+LibDataBroker-1.1.lua
 tekPanelAuction.lua
 TheLowDown.lua
 MinimapButton.lua
